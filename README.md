@@ -14,3 +14,5 @@
 
 ## Screenshots
 ![Screenshot da tela do formulário do AluraBooks](https://imgur.com/bupnUfx.png)
+
+> Link do GitHub Pages: https://leticiaferreiralima.github.io/Alura-books/
